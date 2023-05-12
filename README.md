@@ -175,7 +175,9 @@ return (0);
 ![exp-02 output](https://github.com/Sabariakash22009103/PCA-Matrix-summation-with-a-2D-grid-and-2D-blocks.-Adapt-it-to-integer-matrix-addition.-/assets/119390227/1dbb9227-4644-4a23-b6e7-f9bb3472e9f9)
 
 Matrix initialization : 6.338138 sec.
+
 Sum matrix on Host : 0.884061 sec.
+
 Sum matrix on GPU2D : 0.012146 sec
 
 
