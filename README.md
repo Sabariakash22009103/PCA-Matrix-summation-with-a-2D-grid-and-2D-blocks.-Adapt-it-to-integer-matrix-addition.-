@@ -17,6 +17,8 @@ To perform PCA matrix summation with a 2D grid and 2D blocks and adapting it to 
 Developed by: Sabari Akash A
 
 Register number: 212222230124
+
+sumMatrixOnGPU-2D-grid-2D-block.cu:
 ```
 #include "common.h"
 #include <cuda_runtime.h>
